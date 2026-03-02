@@ -9,4 +9,3 @@ and prioritization visuals.
 - Risk Heat Map
 - Key Risk Summary Table
 - Stride Threat Model Analysis
-- 
